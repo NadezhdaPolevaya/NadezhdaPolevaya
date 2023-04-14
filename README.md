@@ -7,6 +7,7 @@
 <https://t.me/napolevaya>
 
 ### Обучение
-![Аналитик данных](https://github.com/NadezhdaPolevaya/NadezhdaPolevaya/blob/main/Аналитик%20данных_%20karpov.courses.pdf)
 
-![Основы статистики](https://github.com/NadezhdaPolevaya/NadezhdaPolevaya/blob/main/Основы%20статистики_Stepik.pdf)
+![Аналитик данных](https://user-images.githubusercontent.com/125994910/232036446-2f5b7283-8557-4c35-ae5c-c06278fa2454.png))
+
+![Основы статистики](https://user-images.githubusercontent.com/125994910/232036727-a69f7479-3b1c-42be-bb6d-7cbd88c810fa.png)
