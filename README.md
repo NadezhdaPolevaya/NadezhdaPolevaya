@@ -5,3 +5,8 @@
 
 ### Контакты
 <https://t.me/napolevaya>
+
+### Обучение
+![Аналитик данных](https://github.com/NadezhdaPolevaya/NadezhdaPolevaya/blob/main/Аналитик%20данных_%20karpov.courses.pdf)
+
+![Основы статистики](https://github.com/NadezhdaPolevaya/NadezhdaPolevaya/blob/main/Основы%20статистики_Stepik.pdf)
