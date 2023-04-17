@@ -8,6 +8,10 @@
 
 ### Обучение
 
-![Аналитик данных](https://user-images.githubusercontent.com/125994910/232036446-2f5b7283-8557-4c35-ae5c-c06278fa2454.png))
+![Аналитик данных](https://user-images.githubusercontent.com/125994910/232036446-2f5b7283-8557-4c35-ae5c-c06278fa2454.png)
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/e0e85206-6471-4d41-ad33-9c5c40cff6fa/
 
 ![Основы статистики](https://user-images.githubusercontent.com/125994910/232036727-a69f7479-3b1c-42be-bb6d-7cbd88c810fa.png)
+
+Сертификат доступен по ссылке https://stepik.org/cert/1958157
